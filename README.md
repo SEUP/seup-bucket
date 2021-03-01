@@ -8,7 +8,7 @@
 To add this bucket to your Scoop installation, run the following command:
 
 ```
-scoop bucket add seup https://github.com/seup/scoop-bucket
+scoop bucket add seup https://github.com/SEUP/seup-bucket
 ```
 
 tlz is the recommended title, though you can replace it with any name you'd like.
