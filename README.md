@@ -1,6 +1,7 @@
 # SEUP Scoop Bucket
 
 รวม package ที่จำเป็นสำหรับสาขาวิชาวิศวกรรมซอฟต์แวร์ คณะเทคโนโลยีสารสนเทศและการสื่อสาร มหาวิทยาลัยพะเยา
+ที่อยู่นอกเหนือจาก package หลักๆ เช่น main, extras, jetbrains, java 
 
 
 ## Installation
